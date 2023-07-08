@@ -1,11 +1,11 @@
 <html>
-  <body <style=background-color:violet>>
+  <body style="background-color:violet">
 
-    <h1>THIS IS MY NEW ZOMATO APP VERSION 3.0</h1>
-    <h2>Thank You</h2>
-    <h3><font color='green'>I'm Lokesh manidha</font></h3>
-    <h1><font color='red'>One More Update</font></h1>
+    <h1>WELCOME TO ZOMATO</h1>
+    <p>Here you can order various dishes from your favourite restaurants.</p>
+    <p>Click here to search for your restaurants and dishes</p>
+    <button>Search</button>
+    <footer><font color='green'>Thank You! Order Again</font></footer>
   
-
-      </body>
-      </html>
+</body>
+</html>
