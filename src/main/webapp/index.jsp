@@ -18,5 +18,5 @@
     </div>
     <img style="height:750px" src="https://entrackr.com/storage/2020/04/Zomato-market-image.jpg" alt="zomato">
 </body>
-<footer><center>Thank You. Visit Again❤</center></footer>
+<footer><center>Thank You. Visit Again</center></footer>
 </html>
