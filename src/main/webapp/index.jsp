@@ -11,7 +11,7 @@
     <h2><center>Here you can order various dishes from your favourite restaurants</center></h2>
     <div>
         <center>
-        <label for="text">Click below to search for your favourite restaurants and dishes</label>
+        <label for="text">Click below to search for your favourite restaurant and dishes</label>
         <input id="text">
         <button style="color:red" >Search</button>
         </center>
