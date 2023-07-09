@@ -11,12 +11,12 @@
     <h2><center>Here you can order various dishes from your favourite restaurants</center></h2>
     <div>
         <center>
-        <label for="text">Click below to search for your favourite restaurant and dishes</label>
+        <label for="text">Click below to search for your favourite restaurants and dishes</label>
         <input id="text">
         <button style="color:red" >Search</button>
         </center>
     </div>
     <img style="height:750px" src="https://entrackr.com/storage/2020/04/Zomato-market-image.jpg" alt="zomato">
 </body>
-<footer><center>Thank You😊. Visit Again❤️</center></footer>
+<footer><center>Thank You. Visit Again❤</center></footer>
 </html>
